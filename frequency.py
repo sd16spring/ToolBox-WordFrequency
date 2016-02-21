@@ -55,7 +55,9 @@ def get_top_n_words(word_list, n):
 		final_list.append(sorted_list[i])
 		i -= 1
 
-	return final_list
+	list_without_numbers = [x[0] for x in final_list]
+
+	return list_without_numbers
 
 metamorphosis_text = get_word_list('Metamorphosis.txt')
 top_100_words = get_top_n_words(metamorphosis_text, 100)
