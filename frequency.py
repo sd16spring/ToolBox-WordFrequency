@@ -17,7 +17,7 @@ def get_word_list(file_name):
 	end_line = 0
 	while lines[curr_line].find('START OF THIS PROJECT GUTENBERG EBOOK') == -1:
 		curr_line += 1
-	while lines[end_line].find('End of the Project Gutenberg EBook of Metamorphosis') == -1:
+	while lines[end_line].find('End of the Project Gutenberg EBook') == -1:
 		end_line -= 1
 	lines = lines[curr_line + 1:end_line]
 
@@ -59,7 +59,7 @@ def get_top_n_words(word_list, n):
 
 	return list_without_numbers
 
-metamorphosis_text = get_word_list('Metamorphosis.txt')
-top_100_words = get_top_n_words(metamorphosis_text, 100)
+text = get_word_list('Metamorphosis.txt') #Specify file
+top_100_words = get_top_n_words(text, 100)
 
 print top_100_words
