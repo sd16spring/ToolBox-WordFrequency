@@ -36,7 +36,28 @@ def get_word_list(file_name):
 	for i in newlines[:]:
 		i = i.split()
 		words.extend(i)
-	return words
+
+	#take out the words I don't like
+	words_i_dont_like = ['the', 'and', 'a', 'to', 'of', 'it', 'he',
+						 'was', 'that', 'i', 'in', 'you', 's', 'his',
+						 'with', 't', 'they', 'but', 'for', 'had',
+						 'him', 'as', 'she', 'on', 'at', 'so', 'said',
+						 'all', 'there', 'this', 'be', 'then', 'not', 'up',
+						 'by', 'now', 'her', 'out', 'no', 'were', 'if',
+						 'what', 'would', 'll', 'don', 'or', 'when', 'me', 'is',
+						 'do', 'we', 'their', 'one', 'from', 'time', 'an',
+						 'could', 'got', 'well', 'about', 'them', 'have',
+						 'down', 'any', 'boys', 'did', 'been', 'upon',
+						 'just', 'more', 'see', 'into', 'go', 'd',
+						 'over', 'boy', 'away', 'know', 'never', 'again', 'come',
+						 'can', 'like', 'other', 'ain', 'back', 'oh', 'came',
+						 'some', 'two', 'went', 'get', 'here',
+						 'long', 't', 'm', 're', 've', 'too', 'off', 'your']
+	final_words=[]
+	for word in words:
+		if word not in words_i_dont_like:
+			final_words.append(word)
+	return final_words
 
 
 def get_top_n_words(word_list, n):
@@ -50,5 +71,12 @@ def get_top_n_words(word_list, n):
 				 frequently to least frequently occurring
 	"""
 	word_counts = dict()
+	for word in word_list:
+		#increments word count by 1
+		word_counts[word] = word_counts.get(word, 0) + 1
+	ordered_by_frequency = sorted(word_counts, key=word_counts.get, reverse=True)
+	return ordered_by_frequency[:n]
 
-get_word_list("TomSawyer.txt")
+
+word_list = get_word_list("TomSawyer.txt")
+print get_top_n_words(word_list,100)
