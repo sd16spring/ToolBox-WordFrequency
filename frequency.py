@@ -1,5 +1,7 @@
-""" Analyzes the word frequencies in a book downloaded from
-	Project Gutenberg """
+""" 
+Author = Cedric Kim
+
+Analyzes the word frequencies in a Tale of Two Cities """
 
 import string
 from string import maketrans    
@@ -20,11 +22,11 @@ def get_word_list(file_name):
         end_line +=1
     lines = lines[start_line+1:end_line-2] ##takes the rest of the book
     s = ''
-    word_string = s.join(lines)
+    word_string = s.join(lines)         ##joins the list into a long string
     for char in string.punctuation:
-        word_string = word_string.replace(char, '')
-    word_list = word_string.split()
-    word_list = [word.lower() for word in word_list]
+        word_string = word_string.replace(char, '')         ##removes all puncuation
+    word_list = word_string.split()                         ##splits the string into a list of words
+    word_list = [word.lower() for word in word_list]        ##changes uppercase into lowercase
     return word_list
 
 
@@ -38,11 +40,11 @@ def get_top_n_words(word_list, n):
         n: the number of words to return
         returns: a list of n most frequently occurring words ordered from most
                  frequently to least frequentlyoccurrin"""
-    word_count = dict()
-    for word in word_list:
-        word_count[word] = 1 + word_count.get(word, 0)
-    ordered_by_frequency = sorted(word_count, key=word_count.get, reverse=True)
-    return ordered_by_frequency[:n]
+    word_count = dict()         ##create a new dictionary
+    for word in word_list:      
+        word_count[word] = 1 + word_count.get(word, 0)          ##creates key value pair for the words based on their frequency
+    ordered_by_frequency = sorted(word_count, key=word_count.get, reverse=True)     ##sorts the words
+    return ordered_by_frequency[:n]         ##takes the n most frequent words
 
 
 if __name__ == '__main__':
