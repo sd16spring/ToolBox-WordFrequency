@@ -12,6 +12,8 @@ def get_word_list(file_name):
 		returns a list of the words used in the book as a list.
 		All words are converted to lower case.
 	"""
+	lame_words1 = ['the','to','and','of','I','a','that','or','for','not','in']
+	lame_words2 =['was','it','as','you','had','at','my','on','but','have','by']
 	#load book, create list of lines
 	text = open(file_name,'r+')
 	text_lines = text.readlines()
@@ -23,7 +25,9 @@ def get_word_list(file_name):
 	word_list = []
 	for line in text_lines:
 		#run through words
-		for word in text.read().split():
+		for word in line.split():
+			if word in lame_words1 or word in lame_words2:
+				break
 			#go through each character to strip punctuation and whitespace
 			word_now = ""
 			for char in word:
