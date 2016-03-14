@@ -9,9 +9,27 @@ def get_word_list(file_name):
 		returns a list of the words used in the book as a list.
 		All words are converted to lower case.
 	"""
-	pass
+	f = open(file_name,'r')
+	lines = f.readlines()
+	start_line = 0
+	while lines[start_line].find('START OF THIS PROJECT GUTENBERG EBOOK') == -1:
+		start_line += 1
+	final_line = 0
+	while lines[final_line].find('END OF THIS PROJECT GUTENBERG EBOOK') == -1:
+		final_line += 1
 
-def get_top_n_words(word_list, n):
+	lines = lines[start_line+1:final_line]
+	words = []
+
+	for line in lines:
+		for wordCandidate in line.split():
+			refinedWord = wordCandidate.strip(string.whitespace+string.punctuation).lower()
+			if len(refinedWord) > 0:
+				words.append(refinedWord)
+
+	return words
+
+def get_top_n_words(words, n):
 	""" Takes a list of words as input and returns a list of the n most frequently
 		occurring words ordered from most to least frequently occurring.
 
@@ -19,6 +37,14 @@ def get_top_n_words(word_list, n):
 					punctuation
 		n: the number of words to return
 		returns: a list of n most frequently occurring words ordered from most
-				 frequently to least frequentlyoccurring
+				 frequently to least frequently occurring
 	"""
-	pass
+	dictionary = dict()
+	for word in words:
+		dictionary[word] = dictionary.get(word,0) + 1
+	ordered_list = sorted(dictionary, key=dictionary.get, reverse=True)
+	return ordered_list[:n]
+
+
+if __name__ == "__main__":
+	print get_top_n_words(get_word_list("pg2600.txt"), 100)
