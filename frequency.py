@@ -1,7 +1,7 @@
 """ Analyzes the word frequencies in a book downloaded from
 	Project Gutenberg 
 
-	Python 3"""
+	Python 2"""
 
 import string, re
 
@@ -51,4 +51,4 @@ def get_top_n_words(word_list, n):
 if __name__ == '__main__':
 	words = get_word_list('pg5200.txt')
 	top_words = get_top_n_words(words, 100)
-	print(len(top_words))
+	print(top_words)
