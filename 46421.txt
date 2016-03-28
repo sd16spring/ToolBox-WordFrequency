@@ -1,0 +1,1634 @@
+﻿Project Gutenberg's Coyotes in Their Economic Relations, by David E. Lantz
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Coyotes in Their Economic Relations
+
+Author: David E. Lantz
+
+Release Date: July 26, 2014 [EBook #46421]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK COYOTES ***
+
+
+
+
+Produced by Tom Cosmas utilizing materials provided on The
+Internet Archive
+
+
+
+
+
+
+
+Transcriber's Note
+
+Text emphasis displayed as _Italic Text_.
+
+
+
+
+
+                    U.S. DEPARTMENT OF AGRICULTURE
+
+                  BIOLOGICAL SURVEY--BULLETIN No. 20
+
+                        C. HART MERRIAM, Chief
+
+
+
+
+                  COYOTES IN THEIR ECONOMIC RELATIONS
+
+
+                                  BY
+
+
+                            DAVID E. LANTZ
+
+                 Assistant, Biological Survey
+
+
+                            [Illustration]
+
+
+                              WASHINGTON
+
+                      GOVERNMENT PRINTING OFFICE
+
+                                 1905
+
+
+
+
+LETTER OF TRANSMITTAL
+
+                                   U. S. Department of Agriculture,
+                                                 Biological Survey,
+                               _Washington, D. C., March 23, 1905._
+
+Sir: I have the honor to transmit herewith for publication
+as Bulletin No. 20 of the Biological Survey a report on Coyotes in
+their Economic Relations, prepared by David E. Lantz, assistant. The
+subject is of immediate importance to the sheep industry of the West,
+where the wasteful method of sheep herding prevails. If in the range
+country sheep can be fenced with coyote-proof fencing at moderate cost,
+as seems probable, herding may be done away with and the sustaining
+capacity of the lands thereby greatly increased.
+
+                                   Respectfully,
+
+                                       C. Hart Merriam,
+                                      _Chief, Biological Survey,_
+
+  Hon. James Wilson,
+      _Secretary of Agriculture._
+
+
+
+
+CONTENTS.
+
+
+                                                         Page.
+
+  Introduction                                             7
+
+  Abundance of coyotes                                     8
+      Coyotes in Kansas                                    9
+
+  General habits of coyotes                               10
+
+  Food habits of coyotes                                  11
+      Beneficial habits                                   12
+      Injurious habits                                    13
+          Game destroyed by coyotes                       14
+          Depredations on farm animals                    14
+          The coyote's relation to the sheep industry     16
+
+  Means of destruction                                    18
+      Poisoning                                           18
+      Trapping                                            19
+      Hunting                                             20
+      Bounties                                            22
+
+  Protection against coyotes                              23
+
+  Investigations concerning coyote-proof fencing          24
+
+
+
+
+COYOTES IN THEIR ECONOMIC RELATIONS
+
+
+
+
+INTRODUCTION.
+
+
+The small prairie wolves of the western and southwestern parts of
+North America are generally known by the Spanish name 'coyote.'
+This serves to distinguish them from the larger gray or dusky wolves
+that occur in many portions of the same range.
+
+Intermediate in size between the foxes and the larger wolves, yet
+varying greatly in this respect with the different species, the coyotes
+are outwardly characterized by a sharp-pointed muzzle, upright ears,
+and a moderately long, bushy tail. The pelage is full, especially in
+winter. The usual color is a dirty gray, with more or less reddish
+tinge about the head, neck, and legs, and black hairs showing about
+the shoulders and on the back. The extent of the red and the black
+varies much with the different species.
+
+Coyotes are generally distributed from the central Mississippi Valley
+to the Pacific coast and from Costa Rica on the south to the plains
+of the Athabasca on the north.[A] In this extensive range about a
+dozen species have been thus far recognized.[B] Four of these are
+restricted to Mexico and Central America. Of the eight forms that
+occur in the United States, it may be remarked that their ranges and
+relations to each other have not been fully determined. Much material
+is yet needed before anyone can write with exact knowledge of
+their distribution.
+
+[Footnote A: Edward A. Preble informs the writer that the coyote has
+been captured at Fort Smith, northern Athabasca (60° north latitude),
+and on Nelson River in northeastern British Columbia (59° north
+latitude).]
+
+[Footnote B: The following is a list of the forms:
+
+   1. _Canis latrans_ Say. Type from Council Bluffs, Iowa.
+   2. _C. nebracensis_ Merriam. Type from Johnstown. Nebraska.
+   3. _C. lestes_ Merriam. Type from Toyabe Mountains. Nevada.
+   4. _C. frustror_ Woodhouse. Type from Fort Gibson, Indian Territory.
+   5. _C. mearnsi_ Merriam. Type from Quitobaquita, Arizona.
+   6. _C. estor_ Merriam. Type from San Juan River, Utah.
+   7. _C. cagottis_ II. Smith. Type from Rio Frio, Mexico.
+   8. _C. ochropus_ Escholtz. San Joaquin Valley, California.
+   9. _C. peninsulæ_ Merriam. Type from Santa Anita. Lower California,
+          Mexico.
+  10. _C. microdon_ Merriam. Type from Mier. Tamaulipas. Mexico.
+  11. _C. vigilis_ Merriam. Type from Manzanillo. Colima, Mexico.
+  12. _C. goldmani_ Merriam. Type from San Vicente. Chiapas, Mexico.
+]
+
+A group in which there is so much variation in size must also present
+considerable diversity of habits. The larger forms, like _C. latrans_,
+are, of course, the more injurious to the live-stock interests. Smaller
+species, like _C. estor_ and _microdon_, confine themselves in their
+food more to the smaller wild mammals and thus do much less damage. Yet
+it is not the intention in this preliminary bulletin to consider the
+species separately. Indeed, no such detailed study of their habits has
+yet been made. The present paper deals with the group as a whole, and
+is confined to a discussion of the economic relations of coyotes in
+general to our agricultural interests.
+
+In the matter of fencing to protect sheep and poultry against coyote
+depredations, the Biological Survey has made some preliminary
+investigations, and has formulated plans for more extensive experiments
+in the near future. In the meantime it is hoped that farmers and
+ranchmen throughout the West who have had personal experience of the
+efficiency of various forms of fence as a protection against coyotes
+and other wild animals will write the Biological Survey fully as to
+such experience.
+
+
+
+
+ABUNDANCE OF COYOTES.
+
+
+Coyotes are abundant in most parts of their range, except the extreme
+north and the more thickly populated regions where waste lands are
+scarce. It is, however, on the plains of the western part of the United
+States that they come most closely in contact with the advancing
+tide of settlement. The establishment of pioneer homes throughout
+the country has always resulted in restricting the numbers of the
+larger wolves, which have gradually become extinct over large areas
+in the eastern and middle parts of the United States where they were
+formerly abundant. Not so with the coyote. Except in a few thickly
+settled regions, it has thrived upon civilization and is practically
+as numerous as it was before settlements began. Indeed, in many parts
+of the West coyotes are said to be increasing in spite of a constant
+warfare against them.
+
+The introduction of domestic birds and mammals has provided the coyotes
+with an additional food supply always available and entirely precluding
+any danger of starvation. Then, too, the animals are far too suspicious
+to be easily destroyed by the use of traps or poisons. Old hunters of
+the Plains have informed the writer that while it was comparatively
+easy to poison large numbers of the gray wolf, the coyote was not an
+easy victim and usually avoided both the baited traps and the poisoned
+buffalo carcasses.
+
+The plains east of the Rocky Mountains and the higher plateaus of
+the Great Basin west of the mountains are especially adapted to the
+wants of the coyote. Cultivated areas are far apart: stock ranges
+are extensive; tall grasses, weeds, cactuses, and sagebrush afford
+excellent hiding places; rabbits, prairie dogs, ground squirrels, and
+other small animals are plentiful; and, when these natural resources of
+the country fail, sheep and young calves furnish abundant food.
+
+In nearly all the Western States the efforts of ranchmen to destroy
+the coyote have been supplemented by laws authorizing the payment of
+bounties from public funds. Some of these laws have been in operation
+for a score of years or even more and, except locally, no diminution
+in the general numbers of the animals has resulted. In some parts of
+Mexico where the natives have for many years practiced systematic
+poisoning, the coyote is becoming rare, but in most sections of its
+range it is either increasing or no substantial decrease has been
+observed.
+
+
+COYOTES IN KANSAS.
+
+The State of Kansas, where settlements are comparatively old and where
+man's warfare against the coyote has been long continued, affords
+an excellent illustration of the animal's ability to maintain its
+numbers under seemingly adverse circumstances. Most of the counties of
+the State have for many years paid bounties for killing coyotes, and
+conditions have been reached where there is little fluctuation in the
+total amount paid from year to year. The returns of the animals killed
+for the fiscal twelve months from July 1, 1903, to June 30, 1904, show
+that nearly 20,000 scalps were presented for bounty in the State.
+
+The following is a table, by counties, of the number of coyotes on
+which bounties were paid during the year above specified. Of the 11
+missing counties, 10--Cherokee. Comanche. Finney. Grant, Haskell,
+Kearney, Morton, Seward, Stevens, and Wyandotte--paid no bounties, and
+1, Doniphan, made no report. The bounty in all cases is $1 for each
+animal killed.
+
+_Number of coyotes on which bounties were paid in Kansas from July 1,
+1903, to June 30. 1904._
+
+  County.      Number     County.      Number     County.      Number
+             of coyotes.             of coyotes.             of coyotes.
+
+  Allen            73     Harper           44     Phillips        400
+  Anderson        129     Harvey           99     Pottawatomie    329
+  Atchison         48     Hodgeman         74     Pratt           242
+  Barber          633     Jackson          86     Rawlins         223
+  Barton          109     Jefferson        94     Reno            184
+  Bourbon         157     Jewell          106     Republic         52
+  Brown            70     Johnson          62     Rice             90
+  Butler          186     Kingman         257     Riley           206
+  Chase           343     Kiowa           477     Rooks           280
+  Chautauqua      451     Labette         137     Rush            144
+  Cheyenne        585     Lane            164     Russell         258
+  Clark           460     Leavenworth      56     Saline          186
+  Clay            104     Lincoln         105     Scott           193
+  Cloud            42     Linn            175     Sedgwick        223
+  Coffey          159     Logan           329     Shawnee          69
+  Cowley          325     Lyon            197     Sheridan        306
+  Crawford         51     Marion          166     Sherman         291
+  Decatur         240     Marshall        304     Smith           133
+  Dickinson       145     McPherson       210     Stafford        142
+  Douglas          99     Meade           224     Stanton         188
+  Edwards         290     Miami            96     Sumner          401
+  Elk             212     Mitchell        100     Thomas          185
+  Ellis           248     Montgomery      148     Trego           430
+  Ellsworth       193     Morris          176     Wabaunsee       170
+  Ford            500     Nemaha           58     Wallace         259
+  Franklin        152     Neosho           98     Washington      200
+  Geary           102     Ness            273     Wichita         307
+  Gove            355     Norton          227     Wilson          210
+  Graham          293     Osage           173     Woodson         115
+  Greeley[C]      117     Osborne         248
+  Greenwood       336     Ottawa           61         Total    19,152
+  Hamilton        275     Pawnee          230
+
+[Footnote C: six months.]
+
+The experience in Kansas is not exceptional. It may be duplicated in a
+dozen other Western States and in some of the British provinces. It is
+probable that the united efforts of the people are keeping the coyotes
+in check, and that, were these efforts relaxed, the animals would be
+far more abundant; but the coyotes are still so menacing to certain
+interests that the subject requires careful investigation to determine
+what more may be done to improve present conditions.
+
+
+
+
+GENERAL HABITS OF COYOTES.
+
+
+The various forms of the coyote seem each to conform to particular
+faunal areas. They inhabit all the life zones, from the Lower Boreal,
+through the Transition, the Upper and Lower Sonoran, and the semi-arid
+parts of the Tropical. In the northern part of its range C. latrans
+has a migratory movement southward in winter and north ward in the
+spring, probably caused by the limited food supply of the northern
+wilds, and varying in degree with the severity of the seasons. A
+similar movement of other species in the western part of the United
+States from the higher mountain areas to the valleys has been noticed.
+In summer the mountain species range above timber line.
+
+The coyotes are noted for their peculiar prolonged howling. A single
+animal is capable of a performance which impresses the uninformed
+hearer as the concert of a dozen, and when several join in the medley
+the resulting noise is indescribable. They are silent during the day,
+but may be heard at any time between sunset and sunrise.
+
+Coyotes breed but once a year. The mating season is late in January
+or early in February. The period of gestation is probably that of
+the whole genus _Canis_, which is given by Owen as about sixty-three
+days. The young are produced in dens, and number from four to eight or
+even more. The dens are usually enlarged from those made by badgers
+or smaller animals and are often among rocks or in washed-out places
+along banks of streams. Probably at times they are made entirely by
+the coyotes. They are rarely far below the surface, but sometimes of
+considerable extent and with two or more openings. Little attempt is
+made to provide nests for the young. In the Central West these are born
+early in April and usually may be heard in the dens during May. In
+June they come out to play around the mouths of the burrows, which are
+finally deserted during July. By August 1, the young are left by the
+parents to shift for themselves.
+
+In the earlier descriptions, the prairie wolves were usually said
+to hunt in packs. Lewis and Clark, Say. Richardson, and others so
+reported, but the Prince of Wied met them only singly. It is probable
+that they hunt in numbers only when the quarry is large, as in the ease
+of deer and antelope; but as many as three have been known to pursue a
+single jack rabbit.
+
+
+
+
+FOOD HABITS OF COYOTES.
+
+
+The food of coyotes has been a subject of investigation by the field
+naturalists of the Biological Survey, whenever opportunity offered. A
+number of stomach examinations have been made in the field: but trapped
+animals are often found with empty stomachs. In the case of a number of
+the species nothing definite is known of the food.
+
+The stomachs examined contained mainly animal matter, but in two cases
+vegetable remains were found. One examined by Vernon Bailey contained
+a quantity of ripe cultivated plums: and William Lloyd found a coyote
+that had eaten mesquite beans. In northern Arizona Doctor Merriam
+saw a coyote eating a watermelon, and a correspondent al Russell,
+Kans., says that they sometimes cat ripe melons. In California they
+cat peaches, apricots, grapes, and other fruits. They cat also
+juniper berries, manzanita berries, and the fruit of the prickly pear
+(_Opuntia_).
+
+Only one case of insect-eating has been observed by the Biological
+Survey. The same animal that had eaten plums had in its stomach the
+remains of a large cricket (_Stenopelmatus fasciatus_).
+
+Coyotes feed greedily upon all kinds of animal food. This ranges
+from the larger hoofed mammals to the smallest rodents, and includes
+also birds, reptiles, fish, and crustaceans. Three horned toads
+(_Phrynosoma_) were found in the stomach of a specimen killed June
+3, 1898, in Big Smoky Valley. Nevada, by Vernon Bailey. On the low
+tropical coast of eastern Mexico and Texas members of the Biological
+Survey have often seen coyotes searching the beach for crabs, fish, and
+turtle eggs.
+
+
+BENEFICIAL HABITS.
+
+Among the mammals included in the food of the coyotes are many
+injurious species; and, so far as their food is confined to these,
+the animals are decidedly beneficial to the farming interests of the
+country. The destruction of rabbits, both large and small species, is
+of great advantage, especially on the plains and in the cultivated
+valleys, where their depredations are keenly felt by the settlers. The
+various species of jack rabbit have often been observed as included in
+the coyotes' fare, and the smaller rabbits are also habitually eaten.
+The coyotes usually catch the rabbits by lying in wait behind bushes
+and bunches of grass near their paths and pouncing upon them as they
+pass. Sometimes they have been known to hunt jack rabbits in company.
+While a single coyote would not be able to run down a jack rabbit, by
+hunting together, taking turns in the drive, and by taking advantage of
+the tendency of the hare to run in a circle, they are able to capture
+it. Eye witnesses to such a performance state that they do not fight
+over the division of the rabbit's carcass, but that all obtain a share.
+The constant warfare of many coyotes upon these rodents has much to
+do in keeping down the numbers; and the abundance of rabbits in some
+sections of the West has been largely attributed to a local decrease in
+the number of coyotes, caused by an unusual activity against them which
+had been stimulated by high bounties.
+
+Prairie dogs (_Cynomys ludovicianus_ and other species) are also a
+staple coyote food. The coyote captures them by hiding behind clumps
+of weeds or bunches of grass at some distance from the burrows. When
+the unsuspecting rodent, in feeding, approaches near enough, a few
+leaps enable the coyote to secure it. The grass in a prairie dog
+'town' is usually cropped very short, and all tall-growing weeds
+are cut down. Sometimes a weed is permitted to grow to maturity on
+the cone-like mound sit the mouth of a burrow. Only three species
+of weeds have been seen so growing by the writer--the horse nettle
+(_Solanum rostratum_), the Mexican poppy (_Argemone_), and a Euphorbia
+(_Euphorbia marginata_). These afford shade to the animals, but do not
+obstruct the view. All other weeds, and even cultivated crops, are cut
+down to prevent the unseen approach of an enemy. When the cultivated
+crop is some rapid-growing or dense one which they can not clear away,
+they abandon the land rather than stay to be devoured.
+
+But clearing the prairie dog town of weeds is not sufficient to baffle
+the coyote. In the absence of hiding places he takes to new methods of
+hunting. J. H. Gaut, of the Biological Survey, records his observations
+in a prairie dog town in New Mexico:
+
+  The coyote started at one end of the town and ran at lightning speed
+  in a straight line until he cut off one from its burrow. When the
+  prairie dog saw that it could not get to its hole, it stopped and
+  began to kick until the coyote caught it and killed it in very much
+  the same way that a dog kills a rat.
+
+Besides rabbits and prairie dogs, the food of the coyote is known to
+include the following mammals:
+
+Rice rats (_Oryzomys_), kangaroo rats (_Dipodomys_ and _Perodipus_),
+wood rats (_Neotoma_), ground squirrels (_Ammospermophilus_,
+_Callospermophilus_, and _Spermophilus_), woodchucks (_Marmota_), voles
+(_Microtus_), pocket gophers (_Thomomys_), chipmunks (_Eutamias_), and
+pocket mice (_Perognathus_). All of these are more or less harmful,
+and the coyote performs an important service in preying upon them. The
+service is not an occasional or a spasmodic one, but lasts throughout
+the year and throughout the life of the coyote. When the number of
+animals taking part in the work is considered, the enormous importance
+of its bearing in maintaining the 'balance of nature' becomes apparent.
+
+The coyote is useful also as a scavenger. In the prairie country,
+especially in winter, it comes into towns at night searching for
+garbage thrown into the alleys. Here it finds remnants of meat from
+the table, offal from game, and similar prizes. When hungry it will
+reject no animal food, not even carrion. The slaughterhouses near the
+towns are favorite feeding places, and the animals are often shot there
+by moonlight. On the ranges they soon consume dead horses and cattle.
+Leaving the bones clean.
+
+
+INJURIOUS HABITS.
+
+Coyotes have been known to capture some of the wild animals that assist
+man in his warfare' against insects and rodent pests. Among them are
+the weasels. In August, 1903, a member of the Biological Survey met a
+coyote carrying a weasel in the Pecos River Mountains of New Mexico at
+an altitude of 11,600 feet. The coyote, frightened, dropped its prey
+and ran off. The various kinds of skunks also are probably captured and
+eaten.
+
+
+GAME DESTROYED BY COYOTES.
+
+Coyotes destroy considerable game. Birds that roost and nest on the
+ground are frequent victims. Quail, grouse, and wild ducks are caught
+on the nest, and both birds and eggs are eaten. Wild ducks and geese,
+when wounded and unable to fly, may be found along the banks of streams
+and ponds, and the coyotes regularly patrol the shores in search of
+them. In Oklahoma I found fresh coyote tracks each morning on the
+grassy borders of a large artificial pond. Ducks resorted there in
+considerable flocks, and I several times found that they had been eaten
+by coyotes, as evidenced by tracks of the animals and feathers of the
+birds.
+
+Like the larger wolves, the prairie wolf kills deer and antelope. In
+hunting these they always go in packs of two or more and take turns
+in the chase. They know that their prey runs in large circles, and at
+intervals individuals drop out of the pursuit and, crossing a chord of
+the circle, lie in wait until the quarry passes near them again. In
+this way the wolves keep fresh until the pursued animal is exhausted,
+but all of them are 'in at the death.' The present scarcity of these
+large game animals gives few opportunities for such chases, but on the
+plains they were formerly of frequent occurrence.
+
+
+DEPREDATIONS ON FARM ANIMALS.
+
+The coyote is widely and unfavorably known as a destroyer of domestic
+animals. Its depredations upon these indicate a marked change of
+habit since the first settlement of the West. Previously its food was
+restricted to the wild animals, including young buffalo, antelope, and
+deer. The destruction of the larger game by man may partly account
+for the change to farm animals as a diet, but it is probable that
+the quality of the introduced food had much to do with the coyote's
+preference for it.
+
+The coyote kills hens, ducks, geese, and turkeys. Its usual method of
+capturing them in daytime is to lurk behind weeds or bushes until the
+fowls come within reach. Turkeys, which range far afield in search
+of grasshoppers and other insects, are frequent victims. At night
+the coyote captures poultry from the roost, provided the door of the
+henhouse is left open. A correspondent of the Biological Survey wrote
+from Rexburg, Idaho, that one neighbor had lost 60 chickens and
+another 30 in one night, taken by coyotes. Another correspondent, in
+Mayer, Ariz., writes:
+
+  Have lost about 100 chickens by coyotes. With the exception of killing
+  chickens, I believe them to be beneficial in keeping down the rabbit
+  pest.
+
+In approaching ranch buildings either by day or by night the coyote
+conies from the leeward side and with great caution. Once satisfied
+that no danger lurks in the shadows, it becomes exceedingly hold.
+George A. Coleman, formerly a member of the Biological Survey, wrote
+from London, Nemaha County, Nebr.:
+
+  Depredations by wolves here upon henroosts and pigpens are of frequent
+  occurrence. I have observed them several times. They come with a dash
+  into the yard, take a chicken by the neck, and are gone before anyone
+  can stop them. In the same way they visit the pigpens and take the
+  young pigs away from the mother. In one instance they made way with
+  eight 6-weeks-old pigs in one night. At another time two of them
+  attacked a pig which would have weighed 75 pounds, and had they not
+  been stopped by dog's would probably have killed it.
+
+Few of the mammals of the farm are exempt from coyote raids. Even house
+cats, roaming far from home in search of rodents or birds, become
+victims. A correspondent of Forest and Stream, writing from Shirley
+Basin, Wyo., October 7, 1896, says:
+
+  I live on a ranch, and we are somewhat troubled by field mice and
+  mountain rats, and so we must keep cats. We have them, but we do not
+  keep them long, because they are caught by coyotes. Within a few
+  months I have lost four cats in this way.
+
+The coyote has been known to kill the young of most farm
+animals--colts, calves, pigs, lambs, and goats. Colts are seldom
+killed, because the dam can usually protect them. Calves are taken only
+when the mother cow is feeding at a distance or has gone for water.
+The coyotes lie watching in the grass until this opportunity comes.
+Sometimes older animals are killed. Ranchmen in Oklahoma told the
+writer that in winter yearling cattle in good condition are sometimes
+killed by coyotes. To accomplish this two or more of them must hunt
+together, and get the victim separated from the herd.
+
+Capt. P. M. Thorne, writing to the Biological Survey from Fort Lyon,
+Colo.. January 4, 1887, says:
+
+  Old cattlemen who have lived here nearly all their lives agree in
+  saying that the coyotes kill cattle, even full-grown ones. They say
+  that they have seen them at their work, which is done in packs; they
+  surround an animal and keep up a constant nipping at its legs until it
+  falls from weakness and loss of blood.
+
+In July. 1893, at Farmington, Utah, Vernon Bailey saw two coyotes
+chasing calves and yearlings about a pasture, evidently trying to
+separate one from the lot. He notes that in June. 1889, at St. Thomas,
+Nev., coyotes killed a hog that weighed about 100 pounds.
+
+
+THE COYOTE'S RELATION TO THE SHEEP INDUSTRY.
+
+The coyote is especially notorious as an enemy of the sheep industry.
+In many parts of the West sheep raising has greatly languished because
+of the depredations of wild animals upon the flocks. While some of
+the injury is caused by the larger wolves, mountain lions, bears, and
+lynxes, the coyotes are by far the most formidable enemy. They are
+not only more abundant than the other animals mentioned, but they are
+present throughout the year, and their depredations are a steady drain
+upon the resources of the flock owner, comparable in extent to the
+losses caused by worthless dogs in many parts of the country.[D]
+
+[Footnote D: In 1801 the loss from dogs was placed at $152,034 in Ohio
+and $200,000 in Missouri. (Sheep Industry in the United States. U. S.
+Dept of Agric, 1892.)]
+
+Dr. E. A. C. Foster, writing from Russell, Kans., in 1887, said:
+
+  Of mammals, the prairie wolf is perhaps the most troublesome. It is
+  constantly preying upon sheep and lambs; so much so that sheep can
+  not be left alone without some of them falling a prey to this animal.
+  Should the herder be absent or out of view, the wolf makes a dash into
+  the flock and usually secures a lamb.
+
+William Lloyd, writing from Paint Rock, Concho County, Tex., said:
+
+  In January. 1886, coyotes killed over 30 sheep near Fort Stockton, and
+  in March about 20 at Toyah, Tex.
+
+Charles W. Richmond, in 1888, wrote to the Survey from Gallatin County.
+Mont., relating the following incident:
+
+  While we were camped near Bozeman a flock of some 4,000 sheep were
+  driven by, and night overtook them on some foothills south of Bozeman.
+  During the night a flock of coyotes entered the ranks and the sheep
+  stampeded. Many ran over some bluffs, and next morning sheep, dead
+  and dying, were several feet deep at the foot of the bluffs. Nearly
+  500 were counted in the pile, and for several days afterwards sheep,
+  with lacerated ears and torn flanks, wandered into barnyards in the
+  vicinity. The total number lost must have been heavy.
+
+In parts of the Southwest sheep growers have estimated their losses
+from wild animals as equal to 20 percent of the flock. The average loss
+reported from several States is 5 percent. In nearly all the States
+west of the Mississippi the industry has declined in the past two
+years, and one of the principal causes given is losses from coyotes.
+At present the industry thrives only in sections where the local
+conditions permit the herding of sheep in large flocks--a system highly
+injurious to the pasturage.
+
+It is evident that the wealth of any State could be materially
+increased if it were possible everywhere to keep small flocks of sheep,
+Flocks increase rapidly under favorable conditions and good management,
+and the cost of keeping them is small when herders can be dispensed
+with. The double product, wool and million, usually places the profit
+of handling them above that of cuttle or horses. The gains also come
+oftener, since sheep mature in a year, while cattle and horse require
+three.
+
+Vernon Bailey, chief field naturalist of the Biological Survey, writing
+from Seguin, Tex., under date of November 8, 1904, says:
+
+  No sheep are kept in tins part of Texas, and in talking with several
+  intelligent farmers I find that the reason invariably given is the
+  abundance of coyotes. The region is occupied by small farms, mainly 80
+  to 500 acres, on which cotton, corn, sorghum, and vegetables are the
+  principal crops. There are few if any large stock ranches, but each
+  farm has its pastures for horses and cattle. These pastures are the
+  wild land covered with scattered mosquito, post oak, and patches of
+  chaparral and cactus. The native grasses are abundant and of excellent
+  quality, and in this mild climate furnish good feed throughout the
+  year. Many of the pastures are not half eaten down, and the dead and
+  dry vegetation becomes a nuisance. After harvest cattle and horses are
+  usually turned into cotton and grain fields, where they do good work
+  in cleaning up grass and weeds in the field and along the borders.
+  Still there is abundance of feed constantly going to waste, and a
+  small flock of sheep could be kept with great profit and no expense on
+  almost every farm.
+
+  Fifty to two hundred sheep on a farm would at once make this part
+  of Texas the most important woolgrowing section of the State.
+  Other advantages to be gained would be keeping down the cactus and
+  chaparral, which are inclined to spread and occupy much of the ground,
+  keeping the edges of pastures and fields cleaned up so that they would
+  not harbor a host of predaceous insects and rodents in close proximity
+  to growing crops, and furnishing to the farmers and small towns a
+  supply of fresh meat other than chicken. In this warm climate beef
+  is rarely available, except in the larger towns. The advantages of
+  introducing sheep into this part of the country are acknowledged by
+  the farmers, and there seems to be no reason why it has not been done,
+  except that coyotes are common, large, and fond of mutton.
+
+Similar conditions prevail in many parts of the West and over large
+areas. While a dozen years ago the low price of wool was an important
+factor in causing farmers to abandon sheep raising, in recent years the
+prices have been excellent. Fine washed wool was quoted in the New York
+market February 6, 1905, at 32.35 cents per pound and in St. Louis on
+the same date at 40.41 cents per pound. The price of tub-washed wool
+at St. Louis was at no time during 1904 less than 30 cents per pound.
+Unwashed wool ranged from 15 to 31 cents during most of the year. Yet
+the number of sheep in the United States is now decreasing. Montana,
+with an area of 146,000 square miles, leads the States in the number
+of sheep kept, which is 5,638,957.[E] England, with an area of 50,867
+square miles, has about five times as many as Montana. In Montana sheep
+are herded in immense flocks; in England every landowner and farmer
+keeps a small flock.
+
+[Footnote E: Crop Reporter, U. S. Dept. Agric. February, 1905.]
+
+It is evident that the discouraging condition of the sheep industry
+in the United States is not due to a lack of favorable climate nor to
+the absence of suitable pasturage. Neither is it due to low prices of
+wool and mutton. Indeed, in our markets mutton is coming to be more and
+more in favor, and this growing demand may be one of the causes for
+the present drain upon the flocks and the decrease in their numbers;
+but the chief discouragement of the industry undoubtedly lies in the
+depredations of worthless dogs and coyotes.
+
+The dog question is a serious one, especially in thickly settled
+parts of the country, but the evil is best remedied by a resort to
+taxation. The tax on dogs should be sufficiently high to put most of
+the worthless ones out of existence.
+
+
+
+
+MEANS OF DESTRUCTION.
+
+
+The coyote problem is a serious one. Various methods of dealing with
+it have been in vogue since coyotes first began to like mutton. None
+of the methods have been entirely satisfactory, and some are signal
+failures. All of them combined have resulted in a partial check on the
+increase of coyotes in most parts of their range. Poison has probably
+killed the greatest number of adult animals, and in some parts of
+Mexico has almost destroyed some of the species, but no such success
+has attended its use in the United States.
+
+
+POISONING.
+
+Strychnine has always been a favorite weapon of hunters for wolf pelts
+and bounties. A half century ago hunters on the prairies killed the
+buffalo for its pelt, and added to their income by killing the wolves
+that followed the daily slaughter. A little strychnine inserted in the
+skinned carcass of a buffalo enabled them to secure many pelts of the
+gray wolf and occasionally one of the coyote; but not often the latter:
+he was regarded as much too shrewd to be taken by ordinary methods of
+poisoning. Resides, the pelt was small and not sufficiently valuable in
+comparison to warrant special efforts to secure it. Even in 1819 Thomas
+Say, who first gave a scientific name to a coyote, found this animal
+more abundant than the gray wolf.[F] Yet the number killed for their
+pelts has never been great.
+
+[Footnote F: Long's Expedition to the Rocky Mountains, p. 168, 1823.]
+
+As an illustration of the coyote's shrewdness in avoiding poisoned
+bails, a farmer in Oklahoma gave the writer the following experience:
+After butchering some hogs he poisoned a hogskin and left it with other
+offal for a coyote that nightly prowled about his premises. In the
+morning everything but the poisoned skin had been cleared away. He left
+it two more nights, but it remained untouched. Thinking that the animal
+would not eat the poisoned bait, he buried it. That night the coyote
+dug up the pigskin and ate it, falling a victim to its deadly contents.
+Since then the farmer says he has never failed to poison coyotes when
+he buries the bait.
+
+Another method of poisoning coyotes is to insert the strychnine in
+small chunks of meat that can be easily swallowed. Success by this
+method depends largely upon the condition of the animal as regards
+hunger, and may be helped by making what is known as a 'drag' in the
+neighborhood of the bait. A small animal--a bleeding dead rabbit is
+good--is dragged over the prairie and the morsels of bail left at
+intervals along the 'drag.' Two days previous to a general coyote hunt
+in Oklahoma a steer badly affected by 'lumpy jaw' was killed, opened,
+and left in the middle of the area to be hunted. During the first night
+coyotes howled all night in the vicinity of the carcass, but failed to
+touch it. The second day a hind quarter was separated from the carcass
+and dragged in a circuit of a mile or two, the drag coming hack to the
+carcass. During the following night the coyotes picked the bones of the
+carcass hare. Thus gorged with beef, they were in a condition favorable
+for their slaughter in the drive of the following day.
+
+In the use of strychnine for wolves, the dry crystals of strychnia
+sulphate are generally preferred. They should be inserted in the
+bait with a knife blade, and the meat should be handled as little as
+possible. It should be remembered that if precautions are not taken
+there is a greater probability of killing dogs than wolves. The entire
+neighborhood should know of the intended attempt, and all valuable dogs
+should be confined until the operation is finished and uneaten baits
+disposed of.
+
+
+TRAPPING.
+
+Coyotes are not easily trapped. Some skill and a good knowledge
+of their habits are requisites for success. They travel in rather
+well-defined paths and usually hunt against the wind. Having a keen
+sense of smell, they easily detect the tracks of man, and if they have
+had previous experience of traps or guns they are suspicious of danger.
+In the wildest parts of the country remote from settlement they are
+more readily trapped. The chances for successful trapping decrease with
+their familiarity with man, so that there is little probability that
+the process will ever have much effect on their numbers.
+
+The writer knows a Kansas trapper who is quite successful in capturing
+coyotes in a rather thickly settled part of that State. He steel traps
+and sets them along hedges in places where the animals are accustomed
+to pass through openings. No bait is used and the trap is partly
+concealed by dead leaves or grasses. He claims that both the direction
+of the wind and of the animal as it approaches the opening have much to
+do with the chance for success.
+
+Field naturalists of the Biological Survey usually have experienced
+little difficulty in securing coyotes in traps. A No. 3 steel trap
+is generally used. A suitable place is selected along a narrow path
+or trail and the trap sunk in the ground level with the surface
+and concealed with fine grass, leaves, or other material that will
+harmonize with the surroundings. At the same time care is taken that
+the material used shall leave the jaws of the trap free to spring clear
+of the covering.
+
+The trap should be fastened to a bush or stake, or if these are not
+available, to a clog. For the last a pole lying on the ground is
+best, since it may be utilized without moving it or disturbing the
+surroundings. If the trap is anchored to a bush or small tree the chain
+must be securely fastened with snap or wire. A stout stake over which
+the ring will not slip, driven out of sight into the ground, is better.
+Every part of the trap and chain is covered, and the ground left in as
+natural and undisturbed condition as possible.
+
+Any kind of fresh meat will do for bait--rabbits and other small
+rodents are often used, but larger baits seem to be more attractive.
+it is also of advantage after setting the trap to make a 'drag' of
+the bait for a quarter to a half mile, at the end of a rope from the
+saddle horn, and finally to fasten it to a bush or stake close to the
+trap, or cut it in bits and scatter all around the trap so that not all
+can be reached by the coyote without walking over the trap. The skill
+of the trapper and the situation of the trap will determine the best
+arrangement. The suspicion of the coyote is lessened apparently after
+following the bloody trail of a well-planned drag.
+
+Before setting the traps many trappers rub their feet and hands on a
+skin or some strong-smelling meat or carcass to conceal the human odor.
+Oil of anise or rhodium is sometimes used for the same purpose. Any
+strong odor is likely to attract the attention of the coyote and allay
+suspicion. Care must be taken not to spit on the ground or kneel or
+throw down any clothing in the vicinity of the trap. A good plan is to
+set a line of traps and leave them for a day or two, and then go the
+rounds with a horse and drag, and bait the traps without dismounting.
+
+
+HUNTING.
+
+Many ranchmen find dogs an efficient help in guarding against coyote
+depredations. For this purpose the small varieties are useless, since
+the coyotes do not fear them. Beagles and larger foxhounds are too
+slow. Staghounds, Russian wolfhounds, greyhounds, and their crosses
+are to be preferred: and at least three are needed to successfully
+chase and safely kill a coyote. These dogs soon learn to hunt wolves,
+and are seldom known to harm sheep. Ranches on which they are kept are
+comparatively free from depredations of wild animals, while others
+within a few miles are by do means exempt. Of course, the keeping of
+these dogs on small farms would hardly be practicable.
+
+In the open country where there are few fences, hunting the coyote
+with horse and dogs is an exciting sport. Fox chasing, although less
+meritorious in purpose, may have some advantages as sport, because
+the quarry is not always in sight and the skill of the hounds is
+pitted against the cunning of the fox. In the chase of the wolf, as
+in coursing hares, the race is straight away and without cover; and
+when the quarry is overtaken the fight is won only because of the
+overpowering numbers of the pursuers. The ordinary greyhound can easily
+overtake a coyote, but is usually unable to kill it alone.
+
+Coyote drives, in which an entire community engage, have become a
+popular feature of rural sport in some parts of the country. Such
+drives have been held in Kansas, Colorado. Idaho. Oklahoma, and Texas;
+but the methods employed depend largely on the local topography. The
+writer was present at the second annual wolf hunt which took place
+November 24, 1904, in the large Pasture Reserve near Chattanooga, Okla.
+
+On Thanksgiving morning the weather was perfect, and a large number
+of people from the surrounding country collected in the village of
+Chattanooga. A little before noon the men who were to drive the wolves
+rode out of town and headed for their positions in the Pasture. As
+there were less than 150 men, the area covered by the drive was not
+so large as had been planned. The drivers were separated into three
+divisions. The south division, which was under the immediate charge of
+the commander of the hunt, Mr. J. W. Williams, proceeded about 7 miles
+south of Chattanooga. The eastern and the western divisions were under
+the charge of other captains and had their stations about 4 miles to
+the southeast and southwest of the town. The area covered by the drive
+was somewhat over 6 miles square.
+
+On the north side were the spectators, occupying a position about a
+mile and a half from the town and extending over nearly 2 miles of
+front, from which the land sloped gently to the south. The spectators
+came from town in every sort of farm vehicle and numbered fully 500.
+
+In front of the line of vehicles some 50 men on horseback held in
+reserve nearly 100 dogs, mostly greyhounds. Guns of all kinds were
+ruled out of the final 'round-up,' and only lariats, dogs, and clubs
+were permitted as weapons.
+
+The line of spectators was formed at 1 o'clock, but it was fully an
+hour before the driving divisions were heard or seen. In the south a
+beautiful mirage occupied the distant valley a white sheet of water
+bordered by trees. It was on the surface of this mimic lake that we
+first saw the riders galloping by twos. Soon after we faintly heard
+their distant shouts; and when the shouts began to come clearer, the
+coyotes also came up the valley by ones and twos, and at length by
+threes and fours before the swiftly moving horsemen.
+
+When the first wolf was still a half mile distant, the dogs were
+released and riders and dogs dashed to the front to head off the
+animals. Hemmed in in front and rear, they broke to the right and to
+the left, and many made good their escape through the thinner lines of
+the east and the west divisions.
+
+The sport was fast and furious for a short time, but when a little
+Later the dead and captured wolves were brought together in the town,
+they were found to number only eleven in all. Two of them were roped
+by cowboys during the drive and killed with pistols. Two were dragged
+to death at the end of lariats. Seven were caught by the dogs in the
+round-up, and two of these were brought in alive. Many escaped, but it
+is impossible to estimate the number.
+
+Such hunts have considerable influence in decreasing the number of
+coyotes and also afford an agreeable break in the monotony of frontier
+life. Their purpose, however, is never admitted to be that of sport,
+but to kill coyotes.
+
+
+BOUNTIES.
+
+Activity in the warfare against the coyote has been considerably
+stimulated by the payment of bounties from the public treasury of the
+States and counties. Nearly all the States in which coyotes occur have
+been for years maintaining such bounty systems. In some parts of the
+West these are supplemented by rewards from stock associations or ranch
+owners. The bounties from public funds have ranged from 25 cents to $5
+for each animal killed, but supplementary payments sometimes make them
+as high as $15.
+
+The subject of bounties in general has been already discussed by Dr.
+T. S. Palmer, of the Biological Survey.[G] Doctor Palmer refers to the
+California coyote act of 1891, which was practically in force only
+eighteen months, but which cost the State $187,485. As the bounty was
+$5 per scalp, this represented the destruction of 37,493 coyotes.
+Kansas, with a county bounty of $1 per animal, succeeds in destroying
+about 20,000 each year. In addition to the bounty, the pelt of an adult
+coyote is worth from 50 cents to $1.50, according to its condition.
+However, most of the killing is accomplished in spring, when the female
+and her young are dug out of dens and the pelage of the adults is not
+in prime condition.
+
+[Footnote G: Extermination of Noxious Animals by Bounties. Yearbook U.
+S. Dept of Agr., 1896, pp. 55-68.]
+
+Doctor Palmer rightly concludes that in practice bounties for the
+destruction of noxious animals, paid from public funds, are usually
+objectionable. Probably those on wolves and coyotes have been more
+nearly justified than those on any other animals. While it is certain
+that the larger wolves have greatly diminished in numbers under the
+system, forces far more potent than mere rewards have operated against
+them. Chief of these has been the encroachment of civilization. Coyotes
+have in some places held their ground under bounties, and possibly
+might have been held in check nearly as well under the operation of the
+same forces that helped to decimate the timber wolves. But the observed
+effect on the coyote of contact with settlements hardly justifies such
+a conclusion. That the bounties in some places have done effective
+work is undoubted; the question is as to whether the results have been
+commensurate with the expenditures. However, the principal objection to
+bounties is the ethical one, that they lead to fraudulent practices.
+
+
+
+
+PROTECTION AGAINST COYOTES.
+
+
+The discussion of the various means of destroying coyotes, and the
+evident futility, thus far, of all of them combined to completely check
+the increase of the species, leads naturally to the consideration
+of means of preventing their depredations. Could domestic animals
+be entirely protected, the coyotes would return to their original
+beneficial occupation as scavengers and destroyers of noxious rodents.
+
+The plan that at once suggests itself is that of fencing against them.
+This means of protection from wild animals has been long in vogue in
+the Australian colonies and in South Africa. In Australia rabbits,
+dingoes, and some species of kangaroos are successfully kept out of
+pastures and crops by the use of wire nettings. In Cape Colony jackals,
+particularly the red jackal (_Canis mesomelas_), are a great hindrance
+to sheep and ostrich farming, and the success attending the use of wire
+netting in Australia led to the introduction of similar fencing into
+South Africa. The result has been highly gratifying. While the cost of
+the fencing is high, the advantages from its use have been regarded as
+more than compensating for the outlay. Mr. T. T. Hoole, president of
+the Upper Albany (Cape Colony) Farmer's Association, in a paper read
+at a meeting of that society[H] gives details of ten years' experience
+with jackal-proof fencing. Among its advantages to sheep growers he
+names:
+
+  1. Decreased cost of herding.
+
+  2. Increased value of the wool, about 3 cents per pound.
+
+  3. Increased number of lambs reared.
+
+  4. Increased value, owing to early maturity and condition of stock.
+
+  5. Less liability to contagion from scab.
+
+  6. Reduced death rate.
+
+  7. Additional security of the flock.
+
+  8. Improved condition of pasturage as against deterioration.
+
+[Footnote H: Agr. Jour. Cape of Good Hope, vol. 25, pp. 560-563, 1904.]
+
+The last item alone he regards as more than repaying the entire cost
+of erection. Under the system of herding on the open veldt it becomes
+necessary to protect from wild animals by driving the sheep to a
+kraal for the night. In the vicinity of the kraal the ground is soon
+trodden bare, and deep parallel paths are worn in the surface. In a
+few years the torrential rains wash the paths into what are called
+'sluits'--similar to the 'arroyos' of our own Southwest.
+
+In the western part of the United States the practice of keeping sheep
+in vast herds has resulted in much deterioration of the ranges, due to
+overcrowding, and the cost of herding has absorbed much of the profits
+of sheep raising. The process of withdrawing lands for homesteads and
+the various reservations has diminished the free range and increased
+the crowding, until flock owners for their own protection have been
+compelled to purchase lands for range purposes. The day of free
+pasturage on public lands is fast passing, and with private ownership
+of ranges, fencing must be resorted to to confine the flocks. The
+additional expenditure necessary to make the fences proof against
+coyotes would be inconsiderable when all the advantages are properly
+weighed.
+
+
+
+
+INVESTIGATIONS CONCERNING COYOTE-PROOF FENCING.
+
+
+The Biological Survey has undertaken an investigation of the
+feasibility of successfully fencing against the coyote. If a
+coyote-proof fence of sufficient cheapness and durability to be
+practicable can be brought into general use for pasturage, there is
+no reason why the sheep industry in the west should not be revived
+and greatly extended. If such a fence should at the same time prove
+efficient against dogs, the benefit would extend to the whole country
+and result in an enormous increase of the productive resources of our
+farms. A coyote-proof fence would prove valuable, even if its use were
+restricted to corrals and small pastures for ewes during the lambing
+season.
+
+The writer, under instruction from the Chief of the Biological Survey,
+spent several weeks in the field during October and November, 1904,
+making such investigations as were possible during the limited time
+at his disposal. For the purpose of testing the ability of coyotes to
+pass over or through fences a unique experiment was made. The place
+selected was Chattanooga, Comanche County, Okla. South of the town lies
+the great Pasture Reserve, a large area practically without fences to
+interfere with the chasing of wolves. Since coyotes were abundant and
+the cowboys skilled in their chase, it was not difficult to procure the
+needed animals in an uninjured condition.
+
+The experiment was made with all the forms of fence that could possibly
+be obtained or built with the limited resources of a new country. A
+long lane was first built, with sides 7 feet high, made with poultry
+netting of a small mesh. Fourteen cross fences of heights from 30 to 66
+inches and of various designs were built at intervals along the lane.
+They were arranged so that the coyotes, introduced at one end of the
+lane, should have presented to them gradually increasing difficulty in
+passing the fences. Two coyotes were released singly into the lane, and
+their progress and methods of passing the cross fences were carefully
+noted. One was badly frightened by the presence and noise of dogs and
+men, but the experiment with the other was not made in public.
+
+The coyotes ran with their noses close to the ground and seemed to have
+no knowledge of jumping. Neither of them succeeded in getting over a
+fence more than 36 Inches in height. The method was one of climbing,
+assisted by the hind feet, rather than of jumping. All attempts to pass
+the obstructions began with efforts to get the muzzle through openings.
+If the entire head could be thrust through and there was enough room
+for the shoulders to spread out laterally, the whole wolf was able to
+follow. Both went through rectangular openings, 5 by 12 inches and 5 by
+8 inches, but the larger animal failed to pass a mesh 5 by 6 inches.
+The smaller animal went through an opening 4 by 12 inches and another
+5 by 6 inches. Had these openings been triangular in form the animal
+could not have passed through.
+
+The following conclusions were drawn from the experiments:
+
+1. Prairie coyotes will not willingly jump over a fence above 30 inches
+in height.
+
+2. They will readily climb over fences built of horizontal rails or
+crossbars, especially in order to escape from captivity.
+
+3. Barbed wires do not deter them from crawling through a fence to
+escape. Whether they would go through a closely built barbed wire fence
+to attack sheep or poultry is still an open question.
+
+4. Woven wire fences should have meshes, when rectangular, less than 6
+by 6 inches to keep out coyotes. For such fences triangular meshes are
+much better than square ones.
+
+5. In fencing against coyotes with woven fences care must be used to
+see that there are no openings at the ground through which the animals
+can force themselves, since they are more likely to crawl under a fence
+than jump over it.
+
+In the experiments the animals, under some excitement, were attempting
+to escape from confinement. In the judgment of the writer, the
+experiments are insufficient to determine what a coyote would do if the
+conditions were reversed and, impelled only by the stimulus of hunger,
+he were attempting to enter an inclosure built of these fences. The
+barriers would surely be far more formidable. Experiments with certain
+types of fence, with sheep inclosed within them, and in a country
+with wolves as plentiful as they are at Chattanooga, would be far more
+conclusive in establishing a safe basis for practical recommendations
+to farmers.
+
+The writer interviewed a number of farmers in Kansas who have had
+experience with poultry and farm animals in coyote-infested country.
+Several of them had for some years been using for corrals and small
+pastures woven wire fences, and had found those from 57 to 60 inches
+high entirely coyote-proof. These fences have triangular meshes and
+are of sufficient weight to be suitable for all kinds of stock. Such
+a fence, if set with the lower edge on the ground and anchored down
+where necessary, can safely be recommended as coyote-proof. Their cost,
+however, is possibly too great to bring them into general use for sheep
+pastures. Where land is valuable and pastures of the best, they will
+prove economical, for they have the merit of being both dog-proof and
+coyote-proof. Dogs, both large and small, that by chance get inside the
+inclosures are unable to get out, and have to be let out by the gate.
+
+Between these rather expensive fences and the cheapest form that may
+be found efficient many grades may exist. In experiments to determine
+the efficiency of any form it is necessary to consider the familiarity
+of the animals with fences in general. In a new country a very simple
+fence might be ample at first to keep out wolves, but ultimately would
+prove insufficient.
+
+Mr. T. T. Hoole, of Cape Colony, Africa, in the paper already quoted,
+gives the following experience in determining upon a jackal-proof fence:
+
+  My first importation of 2 foot 6 inch netting served its purpose for
+  a year or more, when I found the jackals as troublesome as over.
+  The addition of a single barbed wire assisted for a time: but after
+  some years of experience and comparing notes. I found that nothing
+  short of a 3-foot netting and four barbed wires would be effective.
+  I have given the above particulars of my experience as a warning to
+  the inexperienced, that half measures are simply a waste of money and
+  that badly erected fences, although effective for a time, will end in
+  disappointment and failure.
+
+Mr. Hoole has 18 miles of the fence just described, while a neighboring
+stockman has 45 miles built. The cost, including labor, when built of
+the host material--sneezewood posts and kangaroo netting--was estimated
+at £106 per mile--about $500. This fence was designed for ostriches,
+cattle, springboks, and sheep: a fence intended for sheep alone could
+be built for less. Materials and labor are both much more expensive
+than in the United States. A fence similar to that described by Mr.
+Hoole could be built in most parts of the West for about $200 to $250
+per mile.
+
+A writer in the Nor' West Farmer states that when he first began
+sheep raising in Manitoba a 2-strand barbed wire fence was a complete
+barrier to the coyotes, but that in less than two years they became
+used to it and would go under or between the wires without hesitation.
+More strands were added without effect, until a woven wire fence was
+adopted, which proved satisfactory.
+
+In South Africa three types of fence have been in use for protection
+against jackals, and each has advocates among the farmers. The cheapest
+is built of strands of barbed wire placed close together and stayed at
+intervals by light strips of wood fastened to the wires by staples.
+In the second form the staying is done by light, smooth wire woven in
+by machinery, involving more labor in the building. The third type is
+that recommended by Mr. Hoole. It is more expensive, but seems always
+to have stood the test of experience. The others have not always been
+satisfactory, but their advocates claim that the fault has been in
+construction and not in design. The jackals have entered the inclosures
+through openings at the ground.
+
+Mr. J. H. Clarke, of Laytonville, Mendocino County. Cal., has for
+several years succeeded in fencing coyotes from his sheep range. In a
+letter to the Chief of the Biological Survey, dated March 1, 1905, he
+describes the fence and relates his experience:
+
+  The fence, inclosing nearly 4,000 acres, consists of redwood pickets
+  6 feet long driven into the ground 1 foot and leaving spaces or
+  cracks not over 4 inches wide; posts 8 feet long and driven 2 feet,
+  projecting 1 foot above the pickets; two barbed wires stapled to the
+  posts 5 inches above the pickets and the same distance apart. These
+  should be on the outside of the posts. The pickets are driven evenly
+  by using a slat as a guide at the bottom and a line at the top. One
+  barbed wire is placed at the bottom on the outside to prevent digging.
+  The pickets are fastened to a No. 9 cable wire with a No. 13 wrapping
+  wire. The posts are set 12 feet apart, or less, according to the
+  surface--at top and bottom of each rise or indentation.
+
+  Where gulches or small streams are crossed boxes and gates are put in.
+  Where larger streams are encountered a dam is first put in and the
+  gate so swung as to rest on or against the dam head in the dry season.
+
+  The cost of construction varied from $320 to $400 per mile. Galvanized
+  wire was used, and of the barbed the thickest-set four-pointed wire
+  obtainable. If four-point wire could be had, with sharp points set not
+  over 2 inches apart, the top wire might be dispensed with.
+
+  While this fence was begun in 1897, it was net finished until three
+  years ago. It was partly experimental at first, and at the end of
+  the second year only that portion of the range used for lambing was
+  inclosed with a coyote-proof fence. We do not know that a coyote has
+  ever scaled or jumped it. A very large coyote that got in through an
+  accidentally 'propped' floodgate, though chased by dogs all day, could
+  not be made to jump out, even when cornered. Considering the steep,
+  wild, and broken nature of the country, with several 'slides' in the
+  fence that could not be avoided when building, and which move and
+  displace the fence during hard storms, it is net surprising that a few
+  coyotes have gotten in. Fortunately, partition fences have aided in
+  the capture of those before much damage was done. Two obstacles are
+  encountered in keeping up this fence--trespassers, who cut or break a
+  picket to get through, and slides.
+
+  Coyotes are very persistent, and when they see young lambs on the
+  opposite side will follow the fence for miles, trying to find a hole.
+  * * * None have gotten in this season.
+
+  When we began to fence against them the coyotes wore literally driving
+  sheep out of the country. * * * Horses and cattle have taken their
+  places, but return less than half the profit sheep did prior to the
+  coyote's inroads. Excessive rains in winter and irregularity of
+  landscape preclude the practicability of close herding. With us it was
+  either abandon sheep or fence the pest out. Fortunately we adopted the
+  latter.
+
+While the fence used by Mr. Clarke is expensive, the complete success
+of his experiment is of much interest. In most parts of the West woven
+wire would be cheaper than pickets and would require less labor in its
+erection. Where the land is as uneven as that just described, the use
+of woven wire may be impracticable.
+
+Mr. D. W. Hilderbrand, of California, who has built coyote fences for
+ranchmen in the San Joaquin Valley, recommends a 3-inch mesh woven wire
+fence 36 to 40 inches in height, with two barbed wires on top, 5½
+inches apart, and one at the bottom. He recommends that the posts be
+set 20 to 30 feet apart.
+
+From data now available it seems reasonably certain that a fence
+constructed of woven wire with a triangular mesh not over 6 inches
+across, and of a height of 28 to 42 inches, supplemented by two or
+three tightly stretched barbed wires, would prove to be coyote-proof.
+It is difficult to make exact estimates of the cost. Woven fences
+differ in weight, price, and durability, and freight charges on
+materials depend on the distance from distributing points. The cost
+of posts and labor varies much. An estimate based on so many variable
+factors is of little value, but an average of $200 per mile would
+probably allow the use of the best materials.
+
+Further experiments with wire fences will be made by the Biological
+Survey in cooperation with sheep growers in the West, and the results
+will be given to the public as early as practicable. The matter
+is one of great economic importance, and the Survey will welcome
+correspondence with persons interested in the subject.
+
+
+       *       *       *       *       *
+
+
+Transcriber's Note
+
+
+The total number of coyotes in the table on page 10 was changed to
+match the sum of the numbers in the table.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Coyotes in Their Economic Relations, by
+David E. Lantz
+
+*** END OF THIS PROJECT GUTENBERG EBOOK COYOTES ***
+
+***** This file should be named 46421-8.txt or 46421-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/6/4/2/46421/
+
+Produced by Tom Cosmas utilizing materials provided on The
+Internet Archive
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
